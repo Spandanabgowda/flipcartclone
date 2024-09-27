@@ -1,0 +1,138 @@
+ *{
+    font-family: Basis-regular;
+ }
+
+#header{
+    height: 70px;
+    width: 100%;
+    
+    display: flex;
+    justify-content: center;         
+    align-items: center;
+    background-color: rgb(0,0,0);
+    
+}
+.header-content{
+    height: 60px;
+    width: 97%;
+    
+    display: flex;
+    align-items: center;
+}
+.logo-content{
+    height: 55px;
+    width: 15%;
+    
+    background-color: black;
+    
+}
+.nav-content{
+    height: 55px;
+    width: 55%;
+    
+    display: flex;
+    gap: 15px;
+
+}
+.search-icons{
+    height: 55px;
+    width: 30%;
+    
+    display: flex;
+}
+.we-do{
+    height: 55px;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+  
+
+}
+.we-are{
+    height: 55px;
+    width: 100px;
+   display: flex;
+    align-items: center;
+    gap: 5px;
+   
+
+}
+.insights{
+    height: 55px;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    
+
+}
+.carrers{
+    height: 55px;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+   
+
+}
+.newsroom{
+    height: 55px;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+ 
+
+}
+.investors{
+    height: 55px;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+   
+
+}
+a{
+    text-decoration: none;
+    color: rgb(224,224,224);
+}
+span{
+    color: rgb(224,224,224);
+}
+.contactus{
+    height: 55px;
+    width: 150px;
+    
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    
+}
+.tcs-worldwide{
+    height: 55px;
+    width: 200px;
+   
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.search{
+    height: 55px;
+    width: 100px;
+   
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    justify-content: center;
+    
+}
+.tata-logo{
+    height: 55px;
+    width: 100px;
+    
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
